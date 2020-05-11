@@ -1,10 +1,10 @@
 {
   "name": "@bftickets/common",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "./build/index.js",
-  "types":"./build/index.d.tx",
-  "files":[
+  "types": "./build/index.d.tx",
+  "files": [
     "./build/**/*"
   ],
   "scripts": {
