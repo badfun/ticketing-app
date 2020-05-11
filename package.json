@@ -1,7 +1,7 @@
 {
   "name": "@bftickets/common",
   "version": "1.0.3",
-  "description": "",
+  "description": "Adding a description to force git push",
   "main": "./build/index.js",
   "types": "./build/index.d.tx",
   "files": [
